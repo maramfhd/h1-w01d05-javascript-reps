@@ -120,7 +120,7 @@ h) false
 * Write a function called `timeTwo` that takes in a parameter `num` and `return`'s that number multiplied by 2.
 
 ```js
-//// function timeTow(num){
+// function timeTow(num){
        return num*2;
        }
 ```
